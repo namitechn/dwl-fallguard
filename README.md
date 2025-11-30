@@ -12,7 +12,7 @@ DWL-FallGuard is a modular framework enabling autonomous robots to:
 
 Designed for research in **self-aware adaptive control**, **resilient autonomy**, and **human-robot collaboration**.
 
-[Inference Pipeline Output](docs/inference_demo.png)
+![Inference Pipeline Output](docs/inference_demo.png)
 
 ---
 
