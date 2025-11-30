@@ -14,7 +14,7 @@ Designed for research in **self-aware adaptive control**, **resilient autonomy**
 
 ![Inference Pipeline Output](docs/inference_demo.png)
 
-
+---
 
 ## ✨ Features
 
