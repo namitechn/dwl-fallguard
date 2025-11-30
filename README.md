@@ -34,7 +34,7 @@ Designed for research in **self-aware adaptive control**, **resilient autonomy**
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/dwl-fallguard.git
+git clone https://github.com/alielhaouari01/dwl-fallguard.git
 cd dwl-fallguard
 pip install -e .
 ```
