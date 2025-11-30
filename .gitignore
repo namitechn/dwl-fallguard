@@ -1,0 +1,96 @@
+# ======================
+# Python
+# ======================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+dwl_fallguard.egg-info/
+
+# ======================
+# Models & Outputs (DO NOT COMMIT)
+# ======================
+
+models/
+*.pt
+*.pth
+*.pb
+*.onnx
+evaluation_results.json
+training_curves.png
+
+# ======================
+# Virtual Environments
+# ======================
+
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# ======================
+# IDE / Editors
+# ======================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# Jupyter / Notebooks
+# ======================
+
+.ipynb_checkpoints/
+*.ipynb
+
+# ======================
+# Build & Packaging
+# ======================
+
+build/
+dist/
+*.spec
+MANIFEST
+
+# ======================
+# Data (optional – uncomment if needed later)
+# ======================
+
+# data/
+# datasets/
+# *.csv
+# *.json
+# *.npy
+# *.h5
+# *.mat
+
+# ======================
+# Logs & Temporary Files
+# ======================
+
+*.log
+*.tmp
+*.bak
+.cache/
