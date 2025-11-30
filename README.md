@@ -124,4 +124,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 
-> **Note**: This system uses synthetic data for prototyping. For real-world deployment, integrate with sensor streams (IMU, joint encoders, etc.) and real-world fall datasets.
+> **Note**: This system uses synthetic data for prototyping. For real-world deployment, integrate with sensor streams (IMU, joint encoders) and real-world fall datasets.
